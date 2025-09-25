@@ -1,5 +1,6 @@
 # CannedPears
 A WebView exploit using the pear assessment kiosk app to gain access to an unblocked browser (this is different than the forgot password one, that one was patched!)
+
 DIRECTIONS:(WARNING:this is VERY tedious and a lot harder to do then forgot password!)
 
 Step1: access the Pear Assesment app by pressing "apps" on your lock screen
